@@ -3,15 +3,12 @@
 
 写代码靠各种摸索和查资料大法
 
-#### 代码掌握程度
-* HTML ★★★☆☆
-* CSS ★★★☆☆
-* javascript ★★★☆☆
-* SCSS ★★☆☆☆
-* node.js ★★☆☆☆
-* vue ★☆☆☆☆
-* markdown ★★★☆☆
-* wikitext ★★★☆☆
+#### 会写的代码
+【HTML ★★★☆☆】【CSS ★★★☆☆】【javascript ★★★☆☆】
+
+【SCSS ★★☆☆☆】【node.js ★★☆☆☆】【vue ★☆☆☆☆】
+
+【markdown ★★★☆☆】【wikitext ★★★☆☆】
 
 <s>会写，但只会一点点</s>
 
