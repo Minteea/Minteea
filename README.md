@@ -1,14 +1,12 @@
 ### A cup of Minteea
 你好！我是Minteea，你也可以叫我Minty或者「薄茶」
 
-是一个一边学建筑一边做小动画还会写点js代码的<s>17岁男孩子</s>大三学生一枚
-
 写代码靠各种摸索和查资料大法
 
 #### 会写的代码
 【HTML ★★★☆☆】【CSS ★★★☆☆】【javascript ★★★☆☆】【typescript ★★★☆☆】
 
-【SCSS ★★☆☆☆】【node.js ★★★☆☆】【vue ★☆☆☆☆】【react ★★☆☆☆】
+【SCSS ★★☆☆☆】【node.js ★★★☆☆】【vue ★☆☆☆☆】【react ★★☆☆☆】【solid ★☆☆☆☆】
 
 【markdown ★★★☆☆】【wikitext ★★★☆☆】
 
