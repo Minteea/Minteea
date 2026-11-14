@@ -20,7 +20,7 @@
 * [mfuns-cn/MfunsPlayer](https://github.com/mfuns-cn/MfunsPlayer) - M站第二代播放器，负责部分辅助功能的开发及样式优化
 
 #### 统计信息
-[![Minteea's github stats](https://github-readme-stats.vercel.app/api?username=Minteea&count_private=true&show_icons=true&title_color=684D3D&icon_color=91282D)](https://github.com/Minteea)
+[![Minteea's github stats](https://github-stats-extended.vercel.app/api?username=Minteea&count_private=true&show_icons=true&title_color=684D3D&icon_color=91282D)](https://github.com/Minteea)
 
 <!--
 **Minteea/Minteea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
